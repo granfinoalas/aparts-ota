@@ -1,7 +1,7 @@
 {
-  "catalogVersion": "2026-10-03.3",
+  "catalogVersion": "2026-10-21.1",
   "minAppVersion": "1.4.0",
   "url": "https://granfinoalas.github.io/aparts-ota/catalog.json",
-  "partCount": 583,
-  "sha256": "86a9762c6e7e4e69e669ec88cb0415e5a49e0e37f49c35fbc7ee33a1175cb2c0"
+  "partCount": 596,
+  "sha256": "56d36467962af6848bd65029347cf559b7f0fbba46cb62adf4d727f56fb7a76d"
 }
