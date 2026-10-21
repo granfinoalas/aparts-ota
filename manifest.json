@@ -3,5 +3,8 @@
   "minAppVersion": "1.4.0",
   "url": "https://granfinoalas.github.io/aparts-ota/catalog.json",
   "partCount": 596,
-  "sha256": "56d36467962af6848bd65029347cf559b7f0fbba46cb62adf4d727f56fb7a76d"
+  "sha256": "e6b377f18651b31b0d1ddf69a28b57ceff58fcdeb9de3895647e0b949b93b5d4",
+  "appVersion": "1.8.6",
+  "appVersionCode": 19,
+  "apkUrl": "https://github.com/granfinoalas/aparts-ota/releases/latest/download/A-parts.apk"
 }
