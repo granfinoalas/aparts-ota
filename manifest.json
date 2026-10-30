@@ -1,10 +1,10 @@
 {
-  "catalogVersion": "2026-10-28.1",
+  "catalogVersion": "2026-10-30.1",
   "minAppVersion": "1.4.0",
   "url": "https://granfinoalas.github.io/aparts-ota/catalog.json",
-  "partCount": 652,
-  "sha256": "c7f83a6a58bed19fc6e1f88fa24876cce65f7ad950a5dc45a5aa4d498fba9187",
-  "appVersion": "1.8.11",
-  "appVersionCode": 24,
+  "partCount": 679,
+  "sha256": "7bb776334d00104bb119feab4f974deb5cc5ee6dea6314d4c1f2cee7ea047426",
+  "appVersion": "1.8.12",
+  "appVersionCode": 25,
   "apkUrl": "https://github.com/granfinoalas/aparts-ota/releases/latest/download/A-parts.apk"
 }
